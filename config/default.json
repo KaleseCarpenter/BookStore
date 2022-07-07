@@ -1,0 +1,8 @@
+// default.json
+
+{
+    "mongoURI":
+      "mongodb+srv://uoungbaba:Biifeek2551@cluster0.0ln9k.mongodb.net/?retryWrites=true&w=majority"
+  }
+
+  
